@@ -1,0 +1,47 @@
+{
+    "usuarios":[
+        {
+            "id":1, 
+            "email":"vinicin@gmail.com",
+            "senha":"vinicin"
+        },
+        {
+            "id":2,
+            "email":"junin@gmail.com",
+            "senha": "junin"
+        }
+    ],
+    "produtos":[
+        {
+            "id":1, 
+            "nome":"Shampoo do Cristiano Ronaldo",
+            "preco":40.0, 
+            "imagem":"https://m.media-amazon.com/images/I/61GVBA4eoxL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id":2,
+            "nome":"Desodorante OldSpice do Lorenzo",
+            "preco":20.0,
+            "imagem": "https://drogal.vtexassets.com/arquivos/ids/268809/183708.jpg?v=638956143909700000"
+        },
+        {
+            "id":3, 
+            "nome":"Monster da Nayra",
+            "preco":8.00,
+            "imagem": "https://mercantilnovaera.vtexassets.com/arquivos/ids/220537/Energetico-MONSTER-Mango-Loco-Lata-473ml.jpg?v=638803181063270000"
+        },
+        {
+            "id":4, 
+            "nome":"Chocolate Snickers do Matheus",
+            "preco": 4.00, 
+            "imagem":"https://i3-imagens-prd.araujo.com.br/webp/111114/228335_7896423439199_5.webp"
+        },
+        {
+            "id":5, 
+            "nome": "Shampoo Elseve",
+            "preco":20.00,
+            "imagem": "https://formosa.vtexassets.com/arquivos/ids/282706-600-0/Shampoo-Elseve-400ml-Glycolic-Gloss-0.jpg?v=639142933570000000"
+        }
+    ]
+} 
+
