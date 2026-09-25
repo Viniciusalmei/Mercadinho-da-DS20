@@ -3,12 +3,14 @@
         {
             "id":1, 
             "email":"vinicin@gmail.com",
-            "senha":"vinicin"
+            "senha":"vinicin",
+            "admin":true
         },
         {
             "id":2,
             "email":"junin@gmail.com",
-            "senha": "junin"
+            "senha": "junin",
+            "admin":false
         }
     ],
     "produtos":[
